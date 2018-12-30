@@ -1,0 +1,18 @@
+span.intLink, a, a:visited {
+  cursor: pointer;
+  color: #000000;
+  text-decoration: underline;
+}
+ 
+#info {
+  width: 180px;
+  height: 150px;
+  float: right;
+  background-color: #eeeeff;
+  padding: 4px;
+  overflow: auto;
+  font-size: 12px;
+  margin: 4px;
+  border-radius: 5px;
+  /* visibility: hidden; */
+}
